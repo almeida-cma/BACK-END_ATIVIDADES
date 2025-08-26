@@ -19,3 +19,5 @@ d) O arquivo "2-Proposta de gabarito.pdf" contém as propostas de gabarito para 
 Nível de dificuldade (baixo). Utilize este arquivo se não conseguir evoluir na atividade proposta;
 
 e) Na pasta "2-Respsotas" estão todos as atividades resolvidas conforme propostas de gabarito.
+
+LINK PARA REGISTRO DE ENVIO E APOIOS: https://forms.gle/tsKJ4zT3nzFCnPHh7
